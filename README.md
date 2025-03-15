@@ -6,11 +6,11 @@
   
 </h3>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frumar&label=Profile%20views&color=0e75b6&style=flat"
-        alt="frumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FrUmar&label=Profile%20views&color=0e75b6&style=flat"
+        alt="FrUmar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=frumar" alt="frumar" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=FrUmar" alt="FrUmar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/umar" target="blank"><img
             src="https://img.shields.io/twitter/follow/umar?logo=twitter&style=for-the-badge" alt="umar" /></a> </p>
@@ -99,10 +99,10 @@ across various platforms.**
             alt="typescript" width="40" height="40" /> </a> </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=frumar&show_icons=true&locale=en&layout=compact"
-        alt="frumar" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=FrUmar&show_icons=true&locale=en&layout=compact"
+        alt="FrUmar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frumar&show_icons=true&locale=en"
-        alt="frumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FrUmar&show_icons=true&locale=en"
+        alt="FrUmar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frumar&" alt="frumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FrUmar&" alt="FrUmar" /></p>
