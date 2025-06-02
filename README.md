@@ -99,9 +99,9 @@ across various platforms.**
             alt="typescript" width="40" height="40" /> </a> </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=FrUmar&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=FrUmar&layout=compact&langs_count=6&hide=HTML,CSS&theme=tokyonight"
         alt="FrUmar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FrUmar&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FrUmar&" alt="FrUmar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FrUmar&theme=dark&hide_border=true" alt="FrUmar" /></p>
