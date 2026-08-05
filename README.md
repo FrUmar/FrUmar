@@ -97,10 +97,10 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FrUmar&layout=compact&langs_count=8&hide=HTML,CSS&theme=tokyonight" alt="FrUmar top languages" />
+  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=FrUmar&layout=compact&langs_count=8&hide=HTML,CSS&theme=tokyonight" alt="FrUmar top languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrUmar&show_icons=true&theme=radical" alt="FrUmar GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=FrUmar&show_icons=true&theme=radical" alt="FrUmar GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrUmar&theme=dark&hide_border=true" alt="FrUmar GitHub streak" />
