@@ -1,7 +1,7 @@
 ![MasterHead](https://seomedialine.com/wp-content/uploads/2022/12/Web-Development.png.webp)
 
 <h1 align="center">Hi 👋, I'm Umar Farooq</h1>
-<h3 align="center">Frontend Developer with 2+ years of experience building responsive, feature-rich web & mobile applications</h3>
+<h3 align="center">Software Engineer with 5+ years of experience building responsive, feature-rich web & mobile applications</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Angular+%7C+React+%7C+React+Native+Developer;Building+seamless+UI%2FUX+experiences;Turning+ideas+into+scalable+apps" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FrUmar&theme=radical&column=7&margin-w=8" alt="FrUmar trophies" />
+    <img src="https://github-trophies.vercel.app/?username=FrUmar&theme=radical&column=7&margin-w=8" alt="FrUmar trophies" />
   </a>
 </p>
 
