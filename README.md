@@ -1,3 +1,5 @@
+![MasterHead](https://seomedialine.com/wp-content/uploads/2022/12/Web-Development.png.webp)
+
 <h1 align="center">Hi 👋, I'm Umar Farooq</h1>
 <h3 align="center">Frontend Developer with 2+ years of experience building responsive, feature-rich web & mobile applications</h3>
 
@@ -98,7 +100,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FrUmar&layout=compact&langs_count=8&hide=HTML,CSS&theme=tokyonight" alt="FrUmar top languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrUmar&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="FrUmar GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FrUmar&show_icons=true&theme=radical" alt="FrUmar GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrUmar&theme=dark&hide_border=true" alt="FrUmar GitHub streak" />
